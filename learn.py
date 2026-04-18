@@ -10,4 +10,3 @@ print("I love data engineering")
 print("I love merging and branching")
 
 
-print("Im expert in git")
